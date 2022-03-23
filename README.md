@@ -35,6 +35,9 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 <!-- ------------------- -->
+[![Profile views](https://gpvc.arturio.dev/redowan-sajeeb)  
+
+<!-- ------ -->
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="mailto:progmamun@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="30"/></a>&nbsp;<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><img align="center" src="https://raw.githack.com/progmamun/demo/main/storage/tempfiles/Asset%2019rgblogo.jpg" height="30" width="40" /></a><a href="https://twitter.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
@@ -47,12 +50,8 @@
 <p align="center">
    <table>
    <h1 align="center">Github Stats</h1>
-       <tr>
-       <td><img alt="progmamun :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=progmamun&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
-     </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=jolly&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=redowan-sajeeb&theme=jolly&hide_border=true"></td>
      </tr>
    </table>
 </p>
