@@ -1,4 +1,4 @@
-![](https://camo.githubusercontent.com/2cfc84707b60a1616528db1bc46406c1428008e046769c8a682d59419bd96b58/68747470733a2f2f736f68656c69736c616d696d72616e2e6e65746c6966792e6170702f7374617469632f6d656469612f446576656c6f7065722e65306564376662662e737667) 
+<img width="50%" src="https://camo.githubusercontent.com/2cfc84707b60a1616528db1bc46406c1428008e046769c8a682d59419bd96b58/68747470733a2f2f736f68656c69736c616d696d72616e2e6e65746c6966792e6170702f7374617469632f6d656469612f446576656c6f7065722e65306564376662662e737667" alt="redowan-sajeeb" />
 # Hi there 👋, I'm Redowan Sajeeb
 <!-- <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://raw.githack.com/progmamun/demo/main/storage/tempfiles/assets/mamun3.svg" alt="mamun" /> </a>
 
@@ -7,10 +7,18 @@
 <br />
 <br /> -->
 <!-- ------- -->
- <tr>
-      <td><img alt="redowan-sajeeb :: Profile Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=redowan-sajeeb&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="redowan-sajeeb :: Top Langs]" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redowan-sajeeb&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
+<p align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="redowan-sajeeb :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=redowan-sajeeb&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td> <img alt="redowan-sajeeb :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redowan-sajeeb&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
      </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=redowan-sajeeb&theme=jolly&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
 <!-- ----icons---- -->
 
  🚀 Languages and Tools:
@@ -46,12 +54,3 @@
 </p>
 <br>
 <br />
-
-<p align="center">
-   <table>
-   <h1 align="center">Github Stats</h1>
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=redowan-sajeeb&theme=jolly&hide_border=true"></td>
-     </tr>
-   </table>
-</p>
