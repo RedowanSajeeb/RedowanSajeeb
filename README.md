@@ -6,7 +6,7 @@
 <h3 align="center">Web Specialist</h3>
 <br />
 <br /> ->
-<!-- ------- -->
+<!-- ------ -->
 <p align="center">
    <table>
    <h1 align="center">Github Stats</h1>
