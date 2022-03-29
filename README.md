@@ -5,7 +5,7 @@
 <h1 align="center">Hi<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Al Mamun Khan</h1>
 <h3 align="center">Web Specialist</h3>
 <br />
-<br /> -->
+<br /> ->
 <!-- ------- -->
 <p align="center">
    <table>
