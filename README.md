@@ -11,8 +11,8 @@
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="Redowan-Sajeeb :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Redowan-Sajeeb&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td> <img alt="Redowan-Sajeeb :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redowan-Sajeeb&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
+       <td><img alt="RedowanSajeeb :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=RedowanSajeeb&theme=jolly&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td> <img alt="RedowanSajeeb :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedowanSajeeb&langs_count=14&theme=jolly&layout=compact&hide=html"> </td>
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RedowanSajeeb&theme=jolly&hide_border=true"></td>
