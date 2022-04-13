@@ -7,7 +7,9 @@
 <br />
 <br /> ->
 <!-- f------s--->
+
 <p align="center">
+ 
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
@@ -42,10 +44,10 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-<!-- ------------------- -->
-<!-- [![Profile views](https://gpvc.arturio.dev/redowan-sajeeb)   -->
 
-<!-- ------ -->
+
+![Profile views](https://gpvc.arturio.dev/RedowanSajeeb)  
+
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="redowansajeeb72@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="30"/></a>&nbsp;<a href="https://twitter.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/redowan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redowan" height="30" width="40" /></a>
