@@ -47,6 +47,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/RedowanSajeeb)  
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/RedowanSajeeb/RedowanSajeeb/edit/main/README.md)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="mailto:redowansajeeeb@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="30"/></a>&nbsp;<a href="https://twitter.com/progmamun4144444444444/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="program" height="30" width="40" /></a>
