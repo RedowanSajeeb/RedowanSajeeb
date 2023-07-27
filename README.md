@@ -45,8 +45,9 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+<!-- f--![Profile views](https://gpvc.arturio.dev/RedowanSajeeb)-s--->
 
-![Profile views](https://gpvc.arturio.dev/RedowanSajeeb)  
+  
 [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/RedowanSajeeb/RedowanSajeeb/edit/main/README.md)
 
 <h3 align="center">Connect with me:</h3>
