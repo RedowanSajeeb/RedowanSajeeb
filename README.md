@@ -46,7 +46,7 @@
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/Redowan-Sajeeb)  
+![Profile views](https://gpvc.arturio.dev/RedowanSajeeb)  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="redowansajeeb72@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" height="30" width="30"/></a>&nbsp;<a href="https://twitter.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
