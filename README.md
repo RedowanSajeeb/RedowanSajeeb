@@ -46,7 +46,7 @@
 </p>
 
 <!-- f--![Profile views](https://gpvc.arturio.dev/RedowanSajeeb)-s--->
-  [![HitCount](https://hits.dwyl.com/Redowansajeeb/READMEmd.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Redowansajeeb/READMEmd)
+  [![Profile views](https://hits.dwyl.com/Redowansajeeb/READMEmd.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Redowansajeeb/READMEmd)
   
 [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/RedowanSajeeb/RedowanSajeeb/edit/main/README.md)
 
