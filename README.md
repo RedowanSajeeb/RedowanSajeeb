@@ -1,13 +1,7 @@
-<div style="
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px;
-    border-radius: 10px;
-    border: 5px solid;
-    animation: rgbBorder 3s infinite;
-">
-  <img src="https://www.codemotion.com/magazine/wp-content/uploads/2024/08/05-CelodurismoDeiProgrammatori-articolo-2-leonardo-ai-896x504.jpg" alt="RedowanSajeeb" style="width: 100%; border-radius: 10px;" />
+<div align="center">
+  <img width="80%" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" alt="Chill Coding Animation" />
 </div>
+
 
  <h1 align="center">Hi there 🙋🏻‍♂️ I'm Redowan Sajeeb</h1>
 <!-- <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://raw.githack.com/progmamun/demo/main/storage/tempfiles/assets/mamun3.svg" alt="mamun" /> </a>
