@@ -1,4 +1,4 @@
-<img width="80%" src="https://camo.githubusercontent.com/2cfc84707b60a1616528db1bc46406c1428008e046769c8a682d59419bd96b58/68747470733a2f2f736f68656c69736c616d696d72616e2e6e65746c6966792e6170702f7374617469632f6d656469612f446576656c6f7065722e65306564376662662e737667](https://png.pngtree.com/thumb_back/fh260/background/20230713/pngtree-desk-bound-coder-programming-on-desktop-computer-monitor-in-3d-rendering-image_3854487.jpg" alt="RedowanSajeeb" />
+<img width="80%" src="https://www.codemotion.com/magazine/wp-content/uploads/2024/08/05-CelodurismoDeiProgrammatori-articolo-2-leonardo-ai-896x504.jpg" alt="RedowanSajeeb" />
 
 
  <h1 align="center">Hi there 🙋🏻‍♂️ I'm Redowan Sajeeb</h1>
