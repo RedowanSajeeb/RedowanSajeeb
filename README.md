@@ -9,18 +9,6 @@
   <img src="https://www.codemotion.com/magazine/wp-content/uploads/2024/08/05-CelodurismoDeiProgrammatori-articolo-2-leonardo-ai-896x504.jpg" alt="RedowanSajeeb" style="width: 100%; border-radius: 10px;" />
 </div>
 
-<style>
-@keyframes rgbBorder {
-  0% { border-color: red; }
-  33% { border-color: green; }
-  66% { border-color: blue; }
-  100% { border-color: red; }
-}
-</style>
-
-
-
-
  <h1 align="center">Hi there 🙋🏻‍♂️ I'm Redowan Sajeeb</h1>
 <!-- <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://raw.githack.com/progmamun/demo/main/storage/tempfiles/assets/mamun3.svg" alt="mamun" /> </a>
 
