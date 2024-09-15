@@ -1,6 +1,23 @@
-<div align="center">
-  <img width="80%" src="https://www.codemotion.com/magazine/wp-content/uploads/2024/08/05-CelodurismoDeiProgrammatori-articolo-2-leonardo-ai-896x504.jpg" alt="RedowanSajeeb" style="border: 4px solid; border-color: rgba(255, 0, 0, 0.6) rgba(0, 255, 0, 0.6) rgba(0, 0, 255, 0.6); border-radius: 10px;" />
+<div style="
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: 5px solid;
+    animation: rgbBorder 3s infinite;
+">
+  <img src="https://www.codemotion.com/magazine/wp-content/uploads/2024/08/05-CelodurismoDeiProgrammatori-articolo-2-leonardo-ai-896x504.jpg" alt="RedowanSajeeb" style="width: 100%; border-radius: 10px;" />
 </div>
+
+<style>
+@keyframes rgbBorder {
+  0% { border-color: red; }
+  33% { border-color: green; }
+  66% { border-color: blue; }
+  100% { border-color: red; }
+}
+</style>
+
 
 
 
