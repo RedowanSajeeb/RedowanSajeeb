@@ -1,4 +1,6 @@
-<img width="80%" src="https://www.codemotion.com/magazine/wp-content/uploads/2024/08/05-CelodurismoDeiProgrammatori-articolo-2-leonardo-ai-896x504.jpg" alt="RedowanSajeeb" />
+<div align="center">
+  <img width="80%" src="https://www.codemotion.com/magazine/wp-content/uploads/2024/08/05-CelodurismoDeiProgrammatori-articolo-2-leonardo-ai-896x504.jpg" alt="RedowanSajeeb" />
+</div>
 
 
  <h1 align="center">Hi there 🙋🏻‍♂️ I'm Redowan Sajeeb</h1>
