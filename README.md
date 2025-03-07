@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 🙋🏻‍♂️ I'm Redowan Sajeeb</h1>
 
 <div align="center">
-  <h2 style="font-size: 2em; font-weight: bold;">📊GitHub Stats</h2>
+  <h2 style="font-size: 2em; font-weight: bold;">📊 GitHub Stats</h2>
   <p>
     <table>
       <tr>
